@@ -1,2 +1,3 @@
-# init
-init
+# MiniRaceGame
+
+Project for passing the subject
